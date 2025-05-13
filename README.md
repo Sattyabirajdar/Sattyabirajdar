@@ -6,9 +6,9 @@
 Aspiring Software Developer with a strong foundation in *Full-stack development* and a passion for creating seamless user experiences. I'm currently pursuing a Bachelor of Technology in Computer Science Engineering and have worked on various projects and internships to hone my skills in *Front-end* and *Back-end development*.
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/rahul-patel-70265126b)
-- [GitHub](https://github.com/appy-spec)
-- [LeetCode](https://leetcode.com/u/RahulP74/)
+- [LinkedIn](https://www.linkedin.com/in/satyam-birajdar-86a87b281)
+- [GitHub](https://github.com/Sattyabirajdar)
+- [LeetCode](https://leetcode.com/u/satyambirajdar/)
 
 ---
 
@@ -37,12 +37,9 @@ Aspiring Software Developer with a strong foundation in *Full-stack development*
 ## 🌱 My Journey
 
 ### Work Experience
-- *Software Development Intern @ Zidio Development* (Aug 2024 - Present)  
+- *Software Development Intern @ TechnoHacks* (July 2023 )  
   - Developed responsive web applications, optimized user experience with a 25% reduction in load times, and conducted code reviews to maintain high code quality.
-
-- *Software Development Intern @ CodersCave* (Aug 2024 - Sep 2024)  
-  - Integrated APIs into web applications, enhancing interconnectivity and efficiency by 15% through optimized React components.
-
+    
 - *FullStack Developer Intern @ Suven Consultants* (Aug 2023 - Sep 2023)  
   - Built and deployed responsive web applications with a focus on scalability and maintainability.
 
